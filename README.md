@@ -4,6 +4,7 @@ This repository contains code for my diploma thesis: "Knowledge Distillation int
 
 ## Requirements
 
+* click
 * numpy
 * pandas
 * PyTorch
