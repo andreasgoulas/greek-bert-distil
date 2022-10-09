@@ -17,10 +17,14 @@ This repository contains code for my diploma thesis: "Knowledge Distillation int
 
 The code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+If you find the code useful in your work, please cite the following publication:
+
+Goulas, A., Malamas, N., Symeonidis, A.L. (2022). A Methodology for Enabling NLP Capabilities on Edge and Low-Resource Devices. In Natural Language Processing and Information Systems. NLDB 2022. Lecture Notes in Computer Science, vol 13286 (pp. 197–208). Springer, Cham.
+
 Bibtex:
 ```
 @inproceedings{goulas2022methodology,
-    author    = {Andreas Goulas and Nikolaos Malamas and Andreas L. Symeonidis},
+    author    = {Goulas, Andreas and Malamas, Nikolaos and Symeonidis, Andreas L.},
     title     = {A Methodology for Enabling NLP Capabilities on Edge and Low-Resource Devices},
     booktitle = {Natural Language Processing and Information Systems},
     month     = {06},
